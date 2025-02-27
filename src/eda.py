@@ -13,6 +13,6 @@ def exploratory_analysis(df):
       avg_revenue = ('revenue', 'mean')
       )
     
-    print("Summary Statistics: \n", summary)
+    print("Summary Statistics [mean]: \n", summary)
     
     return summary
